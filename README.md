@@ -1,6 +1,10 @@
 ## Hi there 👋
-
+<h1 align="center">Hi, I'm Rob Holliday</h1>
+<h2 align="center">Data Analysis | Data Science </h2>
 <!--
+
+<a href="https://github.com/UserNameHere">
+  
 **Bobinho1989hola/Bobinho1989hola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
