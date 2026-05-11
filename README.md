@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi, I'm Rob Holliday</h1>
-<h2 align="center">Data Analysis | Data Science </h2>
+<h2 align="center">Data Analysis | Data Science | Project Management </h2>
 <!--
 
 <a href="https://github.com/UserNameHere">
