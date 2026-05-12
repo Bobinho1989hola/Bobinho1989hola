@@ -13,8 +13,8 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="left">
-I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualising results to support data-driven decision-making. I also have a strong background in Project Management and Data Analysis in a Healthcare setting
+<p>
+I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualising results to support data-driven decision-making. I also have a strong background in Project Management and Data Analysis in a Healthcare setting.
 </p>
 
 <h2 align="center">Skills & Tools</h2>
