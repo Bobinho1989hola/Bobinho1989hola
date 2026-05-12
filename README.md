@@ -1,17 +1,12 @@
-<!--Profile Picture 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQE43mYc_YVMDA/profile-displayphoto-crop_800_800/B4DZt1eWp3HwAI-/0/1767202452473?e=1774483200&v=beta&t=R_LtCQFkA2aQIMDm-un9b2y5zSJFysZM6LGkpWM9WBE" alt="Profile Picture" width="150" />
-</p>
--->
-
 ## Hi there 👋
 <h1 align="center">Hi, I'm Rob Holliday</h1>
 <h2 align="center">Data Analysis | Data Science | Project Management </h2>
 <!--
 
-<!-- Profile Picture -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQE43mYc_YVMDA/profile-displayphoto-crop_800_800/B4DZt1eWp3HwAI-/0/1767202452473?e=1774483200&v=beta&t=R_LtCQFkA2aQIMDm-un9b2y5zSJFysZM6LGkpWM9WBE" alt="Profile Picture" width="150" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQE43mYc_YVMDA/profile-displayphoto-crop_800_800/B4DZt1eWp3HwAI-/0/1767202452473?e=1774483200&v=beta&t=R_LtCQFkA2aQIMDm-un9b2y5zSJFysZM6LGkpWM9WBE" 
+       alt="Profile Picture" 
+       width="150" />
 </p>
 
 <h2 align="center">About Me</h2>
