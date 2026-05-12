@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Prof_pic_GItHub.jpg" width="150"/>
+  <img src="Prof_pic_GItHub.jpeg" width="150"/>
 </p>
 
 ## Hi there 👋
