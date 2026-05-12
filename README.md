@@ -62,6 +62,13 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+
+### Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
+</p>
+
+<br />
   
 **Bobinho1989hola/Bobinho1989hola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
